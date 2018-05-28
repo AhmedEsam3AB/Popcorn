@@ -34,7 +34,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
     //API Keys
-    public static final String API_KEY = "";
+    public static final String API_KEY = "INSERT YOUR API HERE";
     private static final String SORT_BY = "sort_by";
     private static final String ORDER = "order";
     private static final String POPULAR = "popular";
